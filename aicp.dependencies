@@ -25,6 +25,11 @@
     "branch":      "cm-11.0"
   },
   {
+   "repository":  "TheMuppets/proprietary_vendor_oppo",
+   "target_path": "vendor/oppo",
+   "branch":      "cm-11.0"
+  },
+  {
     "repository":  "CyanogenMod/android_hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "branch":      "cm-11.0"
