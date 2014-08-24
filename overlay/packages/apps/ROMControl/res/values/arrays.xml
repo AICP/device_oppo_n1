@@ -32,7 +32,6 @@
         <item>@string/category_installer</item>
         <item>@string/category_ribbons</item>
         <item>@string/category_animations</item>
-        <item>@string/category_auto_immersive</item>
         <item>@string/category_headsup</item>
     </string-array>
     <string-array name="navigation_drawer_values" translatable="false">
@@ -49,7 +48,6 @@
         <item>installer</item>
         <item>ribbons</item>
         <item>animations</item>
-        <item>auto_immersive</item>
         <item>headsup</item>
     </string-array>
     <string-array name="navigation_drawer_icons" translatable="false">
@@ -66,7 +64,6 @@
         <item>@drawable/ic_rom_control_installer</item>
         <item>@drawable/ic_rom_control_ribbon</item>
         <item>@drawable/ic_rom_control_animations</item>
-        <item>@drawable/ic_rom_control_auto_immersive</item>
         <item>@drawable/ic_rom_control_headsup</item>
     </string-array>
 </resources>
