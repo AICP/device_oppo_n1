@@ -5,7 +5,7 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository":  "AOKP/device_oppo_apq8064-common",
+    "repository":  "AICP/device_oppo_apq8064-common",
     "target_path": "device/oppo/apq8064-common",
     "branch":      "kitkat"
   },
